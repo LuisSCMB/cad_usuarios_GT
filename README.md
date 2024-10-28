@@ -1,6 +1,9 @@
 # cad_usuarios_GT
 Sistema de cadastro dos funcionarios do meu local de trabalho e diversas funcionalidades
 
+Tecnologias que vou utilizar:
+Django , html5 , css3 , Bootstrap , MySQL e futuramente REACT
+
 Funcionalidade principal:
 * Cadastro de usuários
 
